@@ -1,0 +1,1888 @@
+Apr 06, 2014 6:50:41 PM cloudservices.brokerage.crawler.wsdlcrawler.App main
+INFO: Crawling Start
+Apr 06, 2014 6:50:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/index.po;jsessionid=TK3VHO2NADs5PIculAKqdDwj
+Apr 06, 2014 6:50:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:50:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/Tools.po;jsessionid=TK3VHO2NADs5PIculAKqdDwj
+Apr 06, 2014 6:50:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ViewImplementations.po;jsessionid=TK3VHO2NADs5PIculAKqdDwj
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/Manage.po;jsessionid=TK3VHO2NADs5PIculAKqdDwj
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/Register.po;jsessionid=TK3VHO2NADs5PIculAKqdDwj
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ViewTutorials.po;jsessionid=TK3VHO2NADs5PIculAKqdDwj
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/About.po;jsessionid=TK3VHO2NADs5PIculAKqdDwj
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.com/Morph/dynamo/link?code=M55BDD&name=TaxRate
+Apr 06, 2014 6:50:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ViewAccount.po;jsessionid=TK3VHO2NADs5PIculAKqdDwj?userid=LisaWu
+Apr 06, 2014 6:50:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:50:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:50:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:50:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:50:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:50:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:50:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:50:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:50:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:50:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=425523
+Apr 06, 2014 6:50:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:50:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:50:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:50:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:50:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:50:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:50:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:50:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:50:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:50:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:51:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/www.claudehussenet.com
+Apr 06, 2014 6:51:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:51:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.crickscore.com/
+Apr 06, 2014 6:51:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:51:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.nims.nl/
+Apr 06, 2014 6:51:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.nims.nl/
+Apr 06, 2014 6:51:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.nims.nl/images/logo3.gif
+Apr 06, 2014 6:51:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.net/Morph/dynamo/link?code=B5335A&name=MatchMaker
+Apr 06, 2014 6:51:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.com/Morph/dynamo/link?code=X2E385&name=ZipInfo
+Apr 06, 2014 6:51:09 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:09 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:09 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:09 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:09 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:09 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:09 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:09 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:09 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:09 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=321799
+Apr 06, 2014 6:51:10 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A86086D29-4F1D-CF5E-3DFB-24E1CB1D866C
+Apr 06, 2014 6:51:10 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=stevemac007
+Apr 06, 2014 6:51:10 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=nims.nl
+Apr 06, 2014 6:51:10 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=374072
+Apr 06, 2014 6:51:10 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313728
+Apr 06, 2014 6:51:10 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:10 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:11 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:11 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:11 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:11 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:11 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:11 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:11 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:11 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=138433
+Apr 06, 2014 6:51:11 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=chussenet
+Apr 06, 2014 6:51:11 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=mjk
+Apr 06, 2014 6:51:11 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=425187
+Apr 06, 2014 6:51:11 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=368897
+Apr 06, 2014 6:51:12 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A90CCEEE6-4091-2B1B-33CF-8E0EBA350311
+Apr 06, 2014 6:51:12 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:12 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:12 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:12 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:12 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:12 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:12 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:12 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:12 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:12 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=358501
+Apr 06, 2014 6:51:13 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A37BC0425-6149-A32A-80CC-53440A05834D
+Apr 06, 2014 6:51:13 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:13 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:13 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:13 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:13 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:13 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:13 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:13 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:13 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:13 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=159975
+Apr 06, 2014 6:51:13 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A56512E87-52B4-7A14-F475-086AD4A0987D
+Apr 06, 2014 6:51:14 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:14 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:14 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:14 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:14 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:14 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:14 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:14 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:14 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:14 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.net/Morph/dynamo/link?code=A96XX5&name=FlashChart
+Apr 06, 2014 6:51:14 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313741
+Apr 06, 2014 6:51:14 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://ws.strikeiron.com/globalsmspro2_5?WSDL
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+INFO: WSDL SAVED: http://ws.strikeiron.com/globalsmspro2_5?WSDL
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmlme.com/WSCustNews.asmx?WSDL
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+INFO: WSDL SAVED: http://www.xmlme.com/WSCustNews.asmx?WSDL
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.net/Morph/dynamo/link?code=ED2EME&name=Statistics
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=335000
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:15 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=365701
+Apr 06, 2014 6:51:16 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3AF00B6D9C-A7BC-801A-36E9-EA017AB75C4B
+Apr 06, 2014 6:51:16 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:16 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:16 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:16 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:16 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:16 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:16 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:16 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:16 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:16 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.net/Morph/dynamo/link?code=A7M8EA&name=MessengerService
+Apr 06, 2014 6:51:16 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313864
+Apr 06, 2014 6:51:17 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.searchremagnified.com/?dn=firelife.eu.com&pid=7POX6TT88
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=86241
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A06C15C63-144A-D1E5-2C4C-D67D54E097AA
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=381029
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A8C80702D-9FD6-6FD5-8C45-7D00B4AB00D4
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:18 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/www.firelife.eu.com
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=firelife
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://nims.nl/oms/oms_slio.exe
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.borland.com/delphi
+Apr 06, 2014 6:51:19 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=81122
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xignite.com/xhousing.asmx?WSDL
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+INFO: WSDL SAVED: http://www.xignite.com/xhousing.asmx?WSDL
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.crickscore.com/statview/statview.jsp
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://xml.apache.org/soap
+Apr 06, 2014 6:51:20 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=338061
+Apr 06, 2014 6:51:21 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:21 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:21 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:21 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:21 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:21 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:21 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:21 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:21 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:21 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=148583
+Apr 06, 2014 6:51:22 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3ADF83CFD7-1531-D318-35A4-343190B4E7EB
+Apr 06, 2014 6:51:22 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://webservices.daehosting.com/services/TemperatureConversions.wso?WSDL
+Apr 06, 2014 6:51:22 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+INFO: WSDL SAVED: http://webservices.daehosting.com/services/TemperatureConversions.wso?WSDL
+Apr 06, 2014 6:51:23 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmlme.com/WSDailyXml.asmx?WSDL
+Apr 06, 2014 6:51:23 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+INFO: WSDL SAVED: http://www.xmlme.com/WSDailyXml.asmx?WSDL
+Apr 06, 2014 6:51:23 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:23 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:23 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:23 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:23 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:23 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:23 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:23 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:23 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:23 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.com/Morph/dynamo/link?code=XF6948&name=GlobalSMS
+Apr 06, 2014 6:51:23 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=364840
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.net/Morph/dynamo/link?code=AF3M8M&name=CustomNewsFeed
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313875
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=321960
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3ADB6263A3-B1DD-733C-7220-AC05533C8256
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:24 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=340442
+Apr 06, 2014 6:51:25 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A02E2EC9C-E59F-D8D0-28D1-DD3171280CD5
+Apr 06, 2014 6:51:25 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:25 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:25 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:25 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:25 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:25 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:25 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:25 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:25 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:25 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.nims.nl/oms/win32.htm
+Apr 06, 2014 6:51:25 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.borland.com/bcppbuilder/cpp6/sysreq.html
+Apr 06, 2014 6:51:25 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=81121
+Apr 06, 2014 6:51:26 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:26 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:26 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:26 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:26 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:26 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:26 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:26 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:26 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:26 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:51:26 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=mharvanek
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.net/Morph/dynamo/link?code=BBA339&name=DynamicFlash
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313594
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://nims.nl/cgi-bin/nims.pl?look=nims&page=%2Foms%2Fvcl.htm
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.borland.com/delphi
+Apr 06, 2014 6:51:28 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=81123
+Apr 06, 2014 6:51:29 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.quisque.com/fr/techno/eqimage/eqimage.asmx?WSDL
+Apr 06, 2014 6:51:29 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+INFO: WSDL SAVED: http://www.quisque.com/fr/techno/eqimage/eqimage.asmx?WSDL
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmlme.com/CliCustNews.aspx?mid=37
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.microsoft.com/net
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=55411
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=358502
+Apr 06, 2014 6:51:30 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A296A5C9A-14EF-28C2-4638-E753584EC7E2
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.net/Morph/dynamo/link?code=A96MA6&name=XMLDailyFact
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313873
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:32 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=327
+Apr 06, 2014 6:51:33 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A4CC31EC3-0D14-FA5E-5776-800AC3D6B83C
+Apr 06, 2014 6:51:33 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:33 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:33 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:33 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:33 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:33 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:33 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:33 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:33 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:33 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=353
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A29B09D61-AC84-0106-E3D6-20C8210A5327
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=256150
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A6A2F5028-0EBA-1479-5C73-A5B93A4A7C39
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:34 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=421221
+Apr 06, 2014 6:51:35 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=421153
+Apr 06, 2014 6:51:35 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:35 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:35 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:35 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:35 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:35 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:35 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:35 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:35 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:35 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.net/Morph/dynamo/link?code=A4EACD&name=PKIServices
+Apr 06, 2014 6:51:35 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313605
+Apr 06, 2014 6:51:37 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://service.oli-it.com/PostItService.asmx?wsdl
+Apr 06, 2014 6:51:37 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+INFO: WSDL SAVED: http://service.oli-it.com/PostItService.asmx?wsdl
+Apr 06, 2014 6:51:37 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:37 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:37 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:37 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:37 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:37 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:37 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:37 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:37 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:37 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.net/Morph/dynamo/link?code=BCC6F9&name=EqImage
+Apr 06, 2014 6:51:37 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313581
+Apr 06, 2014 6:51:38 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.oracle.com/technetwork/ws/9iasmobile?WSDL
+Apr 06, 2014 6:51:38 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:38 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:38 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:38 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:38 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:38 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:38 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:38 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:38 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:38 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.interpressfact.net/
+Apr 06, 2014 6:51:38 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:51:38 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=splendance
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmlme.com/CliDailyXml.aspx?mid=37
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.microsoft.com/net
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=55408
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=410887
+Apr 06, 2014 6:51:39 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A7EB41E38-599C-30A8-9A69-03C8E4640281
+Apr 06, 2014 6:51:40 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:40 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:40 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:40 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:40 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:40 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:40 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:40 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:40 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:40 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=331
+Apr 06, 2014 6:51:40 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3AE14CD874-BC52-64C2-BC04-C46752D9C20F
+Apr 06, 2014 6:51:41 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:41 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:41 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:41 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:41 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:41 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:41 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:41 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:41 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:41 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=265607
+Apr 06, 2014 6:51:41 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3AADFAB491-C43A-2002-EC28-6D17FCB15CD7
+Apr 06, 2014 6:51:42 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:42 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:42 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:42 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:42 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:42 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:42 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:42 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:42 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:42 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=255292
+Apr 06, 2014 6:51:43 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A1DC2E0ED-19C9-BE23-6244-9902E123CD4B
+Apr 06, 2014 6:51:43 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:43 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:43 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:43 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:43 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:43 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:43 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:43 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:43 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:43 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=383222
+Apr 06, 2014 6:51:43 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A1AFB5401-7682-5A16-DC47-DF1BFD0FEF97
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.net/Morph/dynamo/link?code=B9DFDD&name=InstantMessageAlert
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313590
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:51:44 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=nsi-ltd
+Apr 06, 2014 6:51:45 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:45 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:45 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:45 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:45 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:45 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:45 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:45 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:45 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:45 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=138434
+Apr 06, 2014 6:51:45 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3AF7867C05-C408-703D-7431-70F0128312FF
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://interpressfact.net/webservices
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.microsoft.com/net
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=152808
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:51:46 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=faisal
+Apr 06, 2014 6:51:47 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://trial.serviceobjects.com/lv/leadvalidation.asmx?WSDL
+Apr 06, 2014 6:51:47 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+INFO: WSDL SAVED: http://trial.serviceobjects.com/lv/leadvalidation.asmx?WSDL
+Apr 06, 2014 6:51:47 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:47 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:47 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:47 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:47 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:47 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:47 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:47 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:47 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:47 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=152769
+Apr 06, 2014 6:51:48 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3AE1CE1D44-BE86-6EF1-7A18-613759D5C7CB
+Apr 06, 2014 6:51:48 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:48 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:48 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:48 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:48 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:48 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:48 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:48 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:48 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:48 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://urljr.com/
+Apr 06, 2014 6:51:48 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:51:48 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=mharward
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.com/Morph/dynamo/link?code=X7569X&name=HostList
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=364833
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:49 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=261223
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A7A32B07D-7759-D671-A186-0B872C0643D3
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.pinellus.it/
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=pinellus
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://majordojo.com/
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:51:50 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=byrnereese
+Apr 06, 2014 6:51:52 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:52 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:52 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:52 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:52 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:52 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:52 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:52 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:52 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:52 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:51:52 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=jimingjin
+Apr 06, 2014 6:51:53 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:53 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:53 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:53 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:53 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:53 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:53 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:53 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:53 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:53 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=362612
+Apr 06, 2014 6:51:53 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A1DD92B9C-1618-87EC-9246-C5FADB406B8C
+Apr 06, 2014 6:51:54 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:54 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:54 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:54 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:54 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:54 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:54 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:54 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:54 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:54 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.com/Morph/dynamo/link?code=XBDFDE&name=DigDNS
+Apr 06, 2014 6:51:54 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=364832
+Apr 06, 2014 6:51:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmlme.com/WSVideoGames.asmx?WSDL
+Apr 06, 2014 6:51:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+INFO: WSDL SAVED: http://www.xmlme.com/WSVideoGames.asmx?WSDL
+Apr 06, 2014 6:51:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.net/Morph/dynamo/link?code=AMF43E&name=RuduTranslator
+Apr 06, 2014 6:51:55 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313745
+Apr 06, 2014 6:51:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.ittc.ku.edu/~aiqbal/WebServices/ApniUrduClient.pl
+Apr 06, 2014 6:51:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.soaplite.com/
+Apr 06, 2014 6:51:56 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=154744
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.com/
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313889
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:57 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:58 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:58 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=362613
+Apr 06, 2014 6:51:58 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3ADE414743-5C55-2C37-D904-AADF2D9DE73E
+Apr 06, 2014 6:51:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:51:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:51:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:51:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:51:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:51:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:51:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:51:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:51:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:51:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cfmentor.com/~rudi/soap/FcSoapClient.tar.gz
+Apr 06, 2014 6:51:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://xml.apache.org/soap
+Apr 06, 2014 6:51:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=196763
+Apr 06, 2014 6:51:59 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.maillocate.com/soap/index.php?wsdl
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.net/Morph/dynamo/link?code=A4FCFX&name=AmazonQuery
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313796
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.com/Morph/dynamo/link?code=A5MCME&name=EasterDateCalculator
+Apr 06, 2014 6:52:00 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313802
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://majordojo.com/amazon_query/client.phtml
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.soaplite.com/
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=85197
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=ianrogers
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:01 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://ww.cfmentor.com/
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=rhodion
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=385448
+Apr 06, 2014 6:52:02 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3ABEA4106F-646B-2A1B-502E-DC7F384A2123
+Apr 06, 2014 6:52:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=254218
+Apr 06, 2014 6:52:03 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A505A69D6-DD04-5E5D-FBF8-79D62C4D7B12
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.gmorpher.net/Morph/dynamo/link?code=A8BD67&name=VideoGamesFinder
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=313871
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=asif_iqbal1
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:04 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=410747
+Apr 06, 2014 6:52:05 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A13566D41-2F34-73EB-BC2F-96671A252181
+Apr 06, 2014 6:52:05 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:05 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:05 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:05 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:05 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:05 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:05 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:05 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:05 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:05 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=141428
+Apr 06, 2014 6:52:05 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3A19144E6B-1DE3-B918-8738-681EDB75EF4C
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmlme.com/CliVideoGames.aspx?mid=38
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.microsoft.com/net
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=55406
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://slashdemocracy.org/
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:52:06 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=gotze
+Apr 06, 2014 6:52:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/
+Apr 06, 2014 6:52:07 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewAccount.po?userid=nhodge
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://br.geocities.com/fnapoleao/italy/fiscale.html
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.borland.com/delphi
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewClient.po?clientid=187501
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/logo_small.gif
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://preview.xignite.com/Products/ProductDirectory.aspx?source=xmethods
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/xignite.gif
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.cdyne.com/products/default.aspx?refid=xmethods.net
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad3.gif
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.serviceobjects.com/xmethods.asp
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad2.gif
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.strikeiron.com/
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.net/images/topad.gif
+Apr 06, 2014 6:52:08 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler shouldVisit
+FINER: Try to Visit: http://www.xmethods.com/ve2/ManageMessage.po?boardid=85094
+Apr 06, 2014 6:52:09 PM cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CustomCrawler visit
+FINE: Visiting: http://www.xmethods.com/ve2/ViewMessages.po?referenceid=uuid%3AD9ED6D1C-8255-311C-B60E-A71A2EBD9E3A
