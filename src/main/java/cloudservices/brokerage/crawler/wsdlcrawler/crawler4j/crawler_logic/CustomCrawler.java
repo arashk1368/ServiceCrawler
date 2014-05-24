@@ -4,13 +4,14 @@
  */
 package cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic;
 
+import cloudservices.brokerage.commons.utils.file_utils.ResourceFileUtil;
+import cloudservices.brokerage.commons.utils.validators.WSDLValidator;
+import cloudservices.brokerage.commons.utils.validators.XMLValidator;
+import cloudservices.brokerage.crawler.crawlingcommons.model.DAO.DAOException;
+import cloudservices.brokerage.crawler.crawlingcommons.model.DAO.WSDLDAO;
+import cloudservices.brokerage.crawler.crawlingcommons.model.entities.WSDL;
 import cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.configuration.Crawler4jConfig;
-import cloudservices.brokerage.crawler.wsdlcrawler.model.DAO.DAOException;
-import cloudservices.brokerage.crawler.wsdlcrawler.model.DAO.WSDLDAO;
-import cloudservices.brokerage.crawler.wsdlcrawler.model.entities.WSDL;
 import cloudservices.brokerage.crawler.wsdlcrawler.utils.properties_utils.PropertiesReader;
-import cloudservices.brokerage.crawler.wsdlcrawler.utils.validators.WSDLValidator;
-import cloudservices.brokerage.crawler.wsdlcrawler.utils.validators.XMLValidator;
 import edu.uci.ics.crawler4j.crawler.Page;
 import edu.uci.ics.crawler4j.crawler.WebCrawler;
 import edu.uci.ics.crawler4j.url.WebURL;
@@ -30,7 +31,7 @@ public class CustomCrawler extends WebCrawler {
 
     public CustomCrawler() throws IOException, NumberFormatException {
         super();
-        this.config = PropertiesReader.loadCrawler4jConfig("crawler4jconfig.properties");
+        this.config = PropertiesReader.loadCrawler4jConfig(ResourceFileUtil.getResourcePath("crawler4jconfig.properties"));
     }
 
     @Override
