@@ -21,7 +21,7 @@ import java.util.logging.Logger;
 
 /**
  *
-* @author Arash Khodadadi http://www.arashkhodadadi.com/  
+ * @author Arash Khodadadi http://www.arashkhodadadi.com/
  */
 public class CustomCrawler extends WebCrawler {
 
@@ -62,7 +62,7 @@ public class CustomCrawler extends WebCrawler {
         LOGGER.log(Level.FINE, msg);
         if (XMLValidator.isXML(page.getContentType())) {
             if (WSDLValidator.validateWSDL(page.getContentData())) {
-                WSDL wsdl = new WSDL(url);
+                WSDL wsdl = new WSDL(url, "", "");
                 WSDLDAO dao = new WSDLDAO();
                 try {
                     dao.addWSDL(wsdl);

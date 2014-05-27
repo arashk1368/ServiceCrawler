@@ -7,9 +7,14 @@ import cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.configuration.Crawl
 import cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CrawlerController;
 import cloudservices.brokerage.crawler.wsdlcrawler.utils.properties_utils.PropertiesReader;
 import java.io.IOException;
+import java.net.URLDecoder;
+import java.net.URLEncoder;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.hibernate.cfg.Configuration;
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
 
 public class App {
 
@@ -17,10 +22,6 @@ public class App {
             .getName());
 
     public void crawl() throws Exception {
-        Configuration configuration = new Configuration();
-        configuration.configure("hibernate.cfg.xml");
-        BaseDAO.openSession(configuration);
-
         Crawler4jConfig config = PropertiesReader.loadCrawler4jConfig(ResourceFileUtil.getResourcePath("crawler4jconfig.properties"));
         CrawlerController controller = new CrawlerController(config);
         long startTime = System.currentTimeMillis();
@@ -32,6 +33,30 @@ public class App {
         LOGGER.log(Level.INFO, msg);
     }
 
+    public void crawl2() throws IOException {
+        String google = "http://www.google.com/search?q=";
+        String search = "service";
+        String charset = "UTF-8";
+        String userAgent = "ExampleBot 1.0 (+http://example.com/bot)"; // Change this to your company's name and bot homepage!
+
+        Elements links = Jsoup.connect(google + URLEncoder.encode(search, charset)).userAgent(userAgent).get().select("li.g>h3>a");
+
+        for (Element link : links) {
+            String title = link.text();
+            String val = link.val();
+            String url = link.absUrl("href"); // Google returns URLs in format "http://www.google.com/url?q=<url>&sa=U&ei=<someKey>".
+            url = URLDecoder.decode(url.substring(url.indexOf('=') + 1, url.indexOf('&')), "UTF-8");
+
+            if (!url.startsWith("http")) {
+                continue; // Ads/news/etc.
+            }
+
+            System.out.println("Title: " + title);
+            System.out.println("URL: " + url);
+            System.out.println("VALUE: " + val);
+        }
+    }
+
     public static void main(String[] args) {
         try {
             LoggerSetup.setup("log.txt", "log.html");
@@ -41,8 +66,11 @@ public class App {
             throw new RuntimeException("Problems with creating the log files");
         }
         try {
-            App app = new App();
-            app.crawl();
+            Configuration configuration = new Configuration();
+            configuration.configure("hibernate.cfg.xml");
+            BaseDAO.openSession(configuration);
+//            App app = new App();
+//            app.crawl();
         } catch (Exception ex) {
             Logger.getLogger(App.class.getName()).log(Level.SEVERE, ex.getMessage(), ex);
         } finally {
@@ -50,5 +78,4 @@ public class App {
         }
 
     }
-
 }
