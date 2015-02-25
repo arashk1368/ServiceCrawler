@@ -2,9 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic;
+package cloudservices.brokerage.crawler.servicecrawler.crawler4j.crawler_logic;
 
-import cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.configuration.Crawler4jConfig;
+import cloudservices.brokerage.crawler.servicecrawler.crawler4j.configuration.Crawler4jConfig;
 import edu.uci.ics.crawler4j.crawler.CrawlConfig;
 import edu.uci.ics.crawler4j.crawler.CrawlController;
 import edu.uci.ics.crawler4j.fetcher.PageFetcher;

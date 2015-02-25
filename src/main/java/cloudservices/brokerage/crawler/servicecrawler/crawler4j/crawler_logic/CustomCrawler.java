@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic;
+package cloudservices.brokerage.crawler.servicecrawler.crawler4j.crawler_logic;
 
 import cloudservices.brokerage.commons.utils.file_utils.ResourceFileUtil;
 import cloudservices.brokerage.commons.utils.validators.WSDLValidator;
@@ -10,8 +10,8 @@ import cloudservices.brokerage.commons.utils.validators.XMLValidator;
 import cloudservices.brokerage.crawler.crawlingcommons.model.DAO.DAOException;
 import cloudservices.brokerage.crawler.crawlingcommons.model.DAO.WSDLDAO;
 import cloudservices.brokerage.crawler.crawlingcommons.model.entities.WSDL;
-import cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.configuration.Crawler4jConfig;
-import cloudservices.brokerage.crawler.wsdlcrawler.utils.properties_utils.PropertiesReader;
+import cloudservices.brokerage.crawler.servicecrawler.crawler4j.configuration.Crawler4jConfig;
+import cloudservices.brokerage.crawler.servicecrawler.utils.properties_utils.PropertiesReader;
 import edu.uci.ics.crawler4j.crawler.Page;
 import edu.uci.ics.crawler4j.crawler.WebCrawler;
 import edu.uci.ics.crawler4j.url.WebURL;

@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.configuration;
+package cloudservices.brokerage.crawler.servicecrawler.crawler4j.configuration;
 
 import java.util.Properties;
 import java.util.regex.Pattern;

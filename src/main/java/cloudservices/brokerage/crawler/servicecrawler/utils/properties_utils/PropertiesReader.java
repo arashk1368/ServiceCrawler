@@ -2,9 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package cloudservices.brokerage.crawler.wsdlcrawler.utils.properties_utils;
+package cloudservices.brokerage.crawler.servicecrawler.utils.properties_utils;
 
-import cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.configuration.Crawler4jConfig;
+import cloudservices.brokerage.crawler.servicecrawler.crawler4j.configuration.Crawler4jConfig;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,22 +1,19 @@
-package cloudservices.brokerage.crawler.wsdlcrawler;
+package cloudservices.brokerage.crawler.servicecrawler;
 
 import cloudservices.brokerage.commons.utils.file_utils.ResourceFileUtil;
 import cloudservices.brokerage.commons.utils.logging.LoggerSetup;
 import cloudservices.brokerage.crawler.crawlingcommons.model.DAO.BaseDAO;
-import cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.configuration.Crawler4jConfig;
-import cloudservices.brokerage.crawler.wsdlcrawler.crawler4j.crawler_logic.CrawlerController;
-import cloudservices.brokerage.crawler.wsdlcrawler.utils.properties_utils.PropertiesReader;
+import cloudservices.brokerage.crawler.servicecrawler.crawler4j.configuration.Crawler4jConfig;
+import cloudservices.brokerage.crawler.servicecrawler.crawler4j.crawler_logic.CrawlerController;
+import cloudservices.brokerage.crawler.servicecrawler.utils.properties_utils.PropertiesReader;
 import java.io.IOException;
-import java.net.URLDecoder;
-import java.net.URLEncoder;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.hibernate.cfg.Configuration;
 
 public class App {
 
-    private final static Logger LOGGER = Logger.getLogger(App.class
-            .getName());
+    private final static Logger LOGGER = Logger.getLogger(App.class.getName());
 
     public void crawl() throws Exception {
         Crawler4jConfig config = PropertiesReader.loadCrawler4jConfig(ResourceFileUtil.getResourcePath("crawler4jconfig.properties"));
