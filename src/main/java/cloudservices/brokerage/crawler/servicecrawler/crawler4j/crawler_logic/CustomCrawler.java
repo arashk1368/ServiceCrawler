@@ -46,8 +46,10 @@ public class CustomCrawler extends WebCrawler {
     private final ServiceDescriptionSnapshotDAO snapshotDAO;
     private boolean isNewSD;
     private final static String TOKEN = ";;;";
-    private final String withCtxReposAddress = "SnapshotRepository/WithContext/WSDLS/";
-    private final String withoutCtxReposAddress = "SnapshotRepository/WithoutContext/WSDLS/";
+    private final String withCtxReposAddressWSDL = "SnapshotRepository/WithContext/WSDLS/";
+    private final String withoutCtxReposAddressWSDL = "SnapshotRepository/WithoutContext/WSDLS/";
+    private final String withCtxReposAddressWADL = "SnapshotRepository/WithContext/WADLS/";
+    private final String withoutCtxReposAddressWADL = "SnapshotRepository/WithoutContext/WADLS/";
     private final File wadlSchema;
 
     public CustomCrawler() throws IOException, NumberFormatException {
@@ -166,7 +168,7 @@ public class CustomCrawler extends WebCrawler {
         }
     }
 
-    private void saveSnapshot(byte[] content, ServiceDescription sd) throws URISyntaxException, DAOException, IOException {
+    private void saveSnapshot(byte[] content, ServiceDescription sd) throws Exception {
         Date now = new Date();
         ServiceProvider provider = createOrUpdateProvider(sd);
         sd.setServiceProvider(provider);
@@ -187,8 +189,18 @@ public class CustomCrawler extends WebCrawler {
         LOGGER.log(Level.FINE, "Provider name is used : {0}", providerName);
         String snapDirAddress = getSnapDirAddress(providerName);
         LOGGER.log(Level.FINE, "Snap Directory address : {0}", snapDirAddress);
-        String ctxDir = withCtxReposAddress.concat(snapDirAddress);
-        String plainDir = withoutCtxReposAddress.concat(snapDirAddress);
+
+        String ctxDir;
+        String plainDir;
+        if (sd.getType() == ServiceDescriptionType.WSDL) {
+            ctxDir = withCtxReposAddressWSDL.concat(snapDirAddress);
+            plainDir = withoutCtxReposAddressWSDL.concat(snapDirAddress);
+        } else if (sd.getType() == ServiceDescriptionType.WADL) {
+            ctxDir = withCtxReposAddressWADL.concat(snapDirAddress);
+            plainDir = withoutCtxReposAddressWADL.concat(snapDirAddress);
+        } else {
+            throw new Exception("REST is not supported!");
+        }
         DirectoryUtil.createDirs(ctxDir);
         DirectoryUtil.createDirs(plainDir);
         LOGGER.log(Level.FINER, "Directories created in {0} and in {1}", new Object[]{ctxDir, plainDir});
