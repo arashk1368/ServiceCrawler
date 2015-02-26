@@ -15,7 +15,7 @@ public class Crawler4jConfig {
 
     private final static String DEFAULT_FILTERS = ".*(\\.(css|js|bmp|gif|jpe?g" + "|png|tiff?|mid|mp2|mp3|mp4"
             + "|wav|avi|mov|mpeg|ram|m4v|pdf" + "|rm|smil|wmv|swf|wma|zip|rar|gz))$";
-    private final static String DEFAULT_ACCEPTED_OUTDOMAIN_PATTERN = "(?i).*\\?wsdl$";
+    private final static String DEFAULT_ACCEPTED_OUTDOMAIN_PATTERN = "\\?[wW][sSAa][dD][lL]";
     private final static String DEFAULT_CRAWL_STORAGE = "./data"; //for storing temp data
     private final static int DEFAULT_NUM_CRAWLERS = 10; //number of threads
     private final static int DEFAULT_POLITENESS_DELAY = 500; //ms
