@@ -47,6 +47,7 @@ public class CustomCrawler extends WebCrawler {
     private final static String TOKEN = ";;;";
     private final String withCtxReposAddress = "SnapshotRepository/WithContext/WSDLS/";
     private final String withoutCtxReposAddress = "SnapshotRepository/WithoutContext/WSDLS/";
+    private final File wadlSchema;
 
     public CustomCrawler() throws IOException, NumberFormatException {
         super();
@@ -54,6 +55,7 @@ public class CustomCrawler extends WebCrawler {
         this.serviceDescDAO = new ServiceDescriptionDAO();
         this.providerDAO = new ServiceProviderDAO();
         this.snapshotDAO = new ServiceDescriptionSnapshotDAO();
+        this.wadlSchema = new File("wadl.xsd");
     }
 
     @Override
@@ -92,7 +94,7 @@ public class CustomCrawler extends WebCrawler {
                 if (isNewSD) {
                     saveSnapshot(page.getContentData(), sd);
                 }
-            } else if (WADLValidator.validateXMLSchema(new ByteArrayInputStream(page.getContentData()))) {
+            } else if (WADLValidator.validateXMLSchema(new ByteArrayInputStream(page.getContentData()), wadlSchema)) {
                 ServiceDescription sd = addOrUpdateService(url, ServiceDescriptionType.WADL);
                 if (isNewSD) {
                     saveSnapshot(page.getContentData(), sd);
