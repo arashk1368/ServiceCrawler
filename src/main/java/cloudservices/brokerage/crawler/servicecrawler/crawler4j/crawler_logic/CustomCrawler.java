@@ -10,6 +10,7 @@ import cloudservices.brokerage.commons.utils.file_utils.ResourceFileUtil;
 import cloudservices.brokerage.commons.utils.url_utils.URLExtracter;
 import cloudservices.brokerage.commons.utils.validators.WADLValidator;
 import cloudservices.brokerage.commons.utils.validators.WSDLValidator;
+import cloudservices.brokerage.commons.utils.validators.XMLValidator;
 import cloudservices.brokerage.crawler.crawlingcommons.model.DAO.DAOException;
 import cloudservices.brokerage.crawler.crawlingcommons.model.DAO.v3.ServiceDescriptionDAO;
 import cloudservices.brokerage.crawler.crawlingcommons.model.DAO.v3.ServiceDescriptionSnapshotDAO;
@@ -89,15 +90,17 @@ public class CustomCrawler extends WebCrawler {
         isNewSD = false;
 
         try {
-            if (WSDLValidator.validateWSDL(page.getContentData())) {
-                ServiceDescription sd = addOrUpdateService(url, ServiceDescriptionType.WSDL);
-                if (isNewSD) {
-                    saveSnapshot(page.getContentData(), sd);
-                }
-            } else if (WADLValidator.validateXMLSchema(new ByteArrayInputStream(page.getContentData()), wadlSchema)) {
-                ServiceDescription sd = addOrUpdateService(url, ServiceDescriptionType.WADL);
-                if (isNewSD) {
-                    saveSnapshot(page.getContentData(), sd);
+            if (XMLValidator.isXML(page.getContentType())) {
+                if (WSDLValidator.validateWSDL(page.getContentData())) {
+                    ServiceDescription sd = addOrUpdateService(url, ServiceDescriptionType.WSDL);
+                    if (isNewSD) {
+                        saveSnapshot(page.getContentData(), sd);
+                    }
+                } else if (WADLValidator.validateXMLSchema(new ByteArrayInputStream(page.getContentData()), wadlSchema)) {
+                    ServiceDescription sd = addOrUpdateService(url, ServiceDescriptionType.WADL);
+                    if (isNewSD) {
+                        saveSnapshot(page.getContentData(), sd);
+                    }
                 }
             }
         } catch (Exception ex) {
